@@ -64,5 +64,5 @@ python3 network_address_changer.py --interfaces eth0,wlan0 --interval 600 --log 
 - Ensure you have `sudo` privileges to modify network settings.
 - Use this tool responsibly to avoid network disruptions.
 
-```
+
 
